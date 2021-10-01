@@ -9,11 +9,11 @@
 
 
 
-<!-- SET-SKILL PROGRAMMING -->
-##Set-Skill Programming  
+<!-- Set-Skill Programming -->
+## Set-Skill programming
 
-###Marathon  
-####Day 1  
+### Marathon  
+#### Day 1  
 
 - console output
 - variables and typization
