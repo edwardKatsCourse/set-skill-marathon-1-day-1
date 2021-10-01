@@ -1,6 +1,6 @@
-##Set-Skill Programming  
-###Marathon  
-####Day 1  
+Set-Skill Programming  
+Marathon  
+Day 1  
 
 - console output
 - variables and typization
